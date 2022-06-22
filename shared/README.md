@@ -1,3 +1,5 @@
+[Bingmann Sorting Visualizations](https://www.youtube.com/c/TimoBingmann)
+
 [Jamstack SPAs vs Traditional](https://www.youtube.com/watch?v=860d8usGC0o)
 
 [Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
