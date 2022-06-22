@@ -4,6 +4,8 @@
 
 [Mathologer Pigeonhole Principle](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
 
+[MIT How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 [Mongo Schema](https://www.youtube.com/watch?v=QAqK-R9HUhc)
 
 [Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
