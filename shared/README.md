@@ -1,14 +1,20 @@
+#CLOUD
+
 [Cloud Costs (older), Fireship](https://www.youtube.com/watch?v=Lb-Pnytoi-8)
 
 [Cloud Costs (newer), Fireship](https://www.youtube.com/watch?v=N6lYcXjd4pg)
 
 [Docker meme](https://www.youtube.com/watch?v=PivpCKEiQOQ)
 
+#ENTREPRENEURSHIP
+
 [Entrepreneurship & Prototyping, Kawasaki](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
 
 [Leadership (Why), Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 [Schema, Mongo](https://www.youtube.com/watch?v=QAqK-R9HUhc)
+
+[Schema, SQL vs NoSQL, IBM](https://www.youtube.com/watch?v=Q5aTUc7c4jg)
 
 [Pigeonhole Principle, Mathologer](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
 
