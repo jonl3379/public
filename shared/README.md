@@ -36,6 +36,20 @@
 
 [Speaking Publicly, MIT](https://www.youtube.com/watch?v=Unzc731iCUY)
 
+## RESOURCES ##
+
+[codebasics](https://www.youtube.com/c/codebasics)
+
+[Fireship](https://www.youtube.com/c/Fireship)
+
+[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+
+[Jack Herrington](https://www.youtube.com/c/JackHerrington)
+
+[Mike Clayton](https://www.youtube.com/c/Onlinepmcourses)
+
+[Traversy](https://www.youtube.com/c/TraversyMedia)
+
 ## WEB ##
 
 [SPAs vs Traditional, Jamstack](https://www.youtube.com/watch?v=860d8usGC0o)
