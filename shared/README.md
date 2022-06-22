@@ -1,3 +1,5 @@
+Resources for students.
+
 ## ALGOS ##
 
 [Pigeonhole Principle, Mathologer](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
@@ -35,6 +37,14 @@
 [Leadership (Why), Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 [Speaking Publicly, MIT](https://www.youtube.com/watch?v=Unzc731iCUY)
+
+## PROGRAM MANAGEMENT ##
+
+[Gantt Chart, Clayton](https://www.youtube.com/watch?v=fB0wsdmV3Sw)
+
+[Requirements, Blash](https://www.linkedin.com/learning/business-analysis-foundations-4/requirement-types)
+
+[WBS, Clayton](https://www.youtube.com/watch?v=akO2Lf1fHmM)
 
 ## RESOURCES ##
 
