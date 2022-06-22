@@ -1,16 +1,18 @@
-[Bingmann Sorting Visualizations](https://www.youtube.com/c/TimoBingmann)
+[Docker meme](https://www.youtube.com/watch?v=PivpCKEiQOQ)
 
-[Jamstack SPAs vs Traditional](https://www.youtube.com/watch?v=860d8usGC0o)
+[Entrepreneurship & Prototyping, Kawasaki](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
 
-[Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
-
-[Mathologer Pigeonhole Principle](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
-
-[MIT How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+[Leadership, Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 [Mongo Schema](https://www.youtube.com/watch?v=QAqK-R9HUhc)
 
-[Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+[Pigeonhole Principle, Mathologer](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
+
+[Sorting Visualizations, Bingmann](https://www.youtube.com/c/TimoBingmann)
+
+[SPAs vs Traditional, Jamstack](https://www.youtube.com/watch?v=860d8usGC0o)
+
+[Speaking Publicly, MIT](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 [Yegge on GCP](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 
