@@ -1,8 +1,12 @@
 [Jamstack SPAs](https://www.youtube.com/watch?v=860d8usGC0o)
 
+[Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
+
 [Mathologer Pigeonhole Principle](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
 
 [Mongo Schema](https://www.youtube.com/watch?v=QAqK-R9HUhc)
+
+[Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 [Yegge on GCP](https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)
 
