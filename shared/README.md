@@ -1,4 +1,4 @@
-[Jamstack SPAs](https://www.youtube.com/watch?v=860d8usGC0o)
+[Jamstack SPAs vs Traditional](https://www.youtube.com/watch?v=860d8usGC0o)
 
 [Kawasaki on Entrepreneurship](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
 
