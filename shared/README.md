@@ -1,8 +1,12 @@
+[Cloud Costs (older), Fireship](https://www.youtube.com/watch?v=Lb-Pnytoi-8)
+
+[Cloud Costs (newer), Fireship](https://www.youtube.com/watch?v=N6lYcXjd4pg)
+
 [Docker meme](https://www.youtube.com/watch?v=PivpCKEiQOQ)
 
 [Entrepreneurship & Prototyping, Kawasaki](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
 
-[Leadership, Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+[Leadership (Why), Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 [Schema, Mongo](https://www.youtube.com/watch?v=QAqK-R9HUhc)
 
