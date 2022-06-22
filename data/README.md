@@ -1,4 +1,4 @@
 # data
 
-Uh, attribution:
+Attribution:
 https://archive.ics.uci.edu/ml/index.php
