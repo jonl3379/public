@@ -4,7 +4,7 @@
 
 [Leadership, Sinek on Why](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
-[Mongo Schema](https://www.youtube.com/watch?v=QAqK-R9HUhc)
+[Schema, Mongo](https://www.youtube.com/watch?v=QAqK-R9HUhc)
 
 [Pigeonhole Principle, Mathologer](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
 
