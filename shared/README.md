@@ -40,4 +40,4 @@
 
 [SPAs vs Traditional, Jamstack](https://www.youtube.com/watch?v=860d8usGC0o)
 
-
+[UX Design](https://www.youtube.com/watch?v=t0aCoqXKFOU)
