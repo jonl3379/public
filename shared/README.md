@@ -1,4 +1,4 @@
-#CLOUD
+# CLOUD #
 
 [Cloud Costs (older), Fireship](https://www.youtube.com/watch?v=Lb-Pnytoi-8)
 
@@ -6,7 +6,7 @@
 
 [Docker meme](https://www.youtube.com/watch?v=PivpCKEiQOQ)
 
-#ENTREPRENEURSHIP
+# ENTREPRENEURSHIP #
 
 [Entrepreneurship & Prototyping, Kawasaki](https://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship)
 
