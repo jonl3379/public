@@ -8,6 +8,8 @@ Resources for students.
 
 ## CLOUD ##
 
+[AWS services song](https://www.youtube.com/watch?v=BtJAsvJOlhM)
+
 [Cloud Costs (older), Fireship](https://www.youtube.com/watch?v=Lb-Pnytoi-8)
 
 [Cloud Costs (newer), Fireship](https://www.youtube.com/watch?v=N6lYcXjd4pg)
